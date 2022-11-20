@@ -1,0 +1,6 @@
+Data analytics (DA) is the process of examining data sets in order to find trends and 
+draw conclusions about the information they contain. Increasingly, data analytics is done with
+the aid of specialized systems and software. Data analytics technologies and techniques are widely used in
+commercial industries to enable organizations to make more-informed business decisions. 
+Scientists and researchers also use analytics tools to verify or disprove scientific models, theories 
+and hypotheses
